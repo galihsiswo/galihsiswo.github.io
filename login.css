@@ -58,6 +58,11 @@ li {
     background-color: #b5cbf6;
   }
 
+.login{
+    color: #14394F;
+    font-weight: 1000;
+}
+
 h1{
     text-align: center;
     margin-top: 20px;
@@ -74,6 +79,14 @@ h2{
     color: #14394F;
     font-family: Britannic;
     font-size: 18px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 60px;
+    color: #14394F;
+    font-family: Britannic;
+    font-size: 14px;
 }
 
 .box{
